@@ -18,7 +18,7 @@ Not all orders are handled the same way. [Orders](../04.orders) in Drupal Commer
 
 ## Payments
 
-Whether you use [Authorize.net](https://www.authorize.net/), [Braintree](https://www.braintreepayments.com/), [PayPal](https://www.paypal.com) [Stripe](https://stripe.com/) or any of the [other many payment gateways](../../02.developer-guide/05.payments/01.gateways-providers), Drupal Commerce provides many integrations.
+Whether you use [Authorize.net](https://www.authorize.net/), [Braintree](https://www.braintreepayments.com/), [PayPal](https://www.paypal.com) [Stripe](https://stripe.com/) or any of the [other many payment gateways](../../developer-guide/payments/available-gateways), Drupal Commerce provides many integrations.
 
 ## Taxes
 
